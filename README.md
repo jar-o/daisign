@@ -45,3 +45,23 @@ node src/cli.js \
 }
 ```
 
+## Getting started
+
+You'll need to pull this repository, then run
+
+```
+git submodule update --init --recursive
+```
+
+Next you'll need the node dependencies, so just do
+
+```
+npm i
+```
+
+Now you should be good to go:
+
+```
+node src/cli.js
+```
+
