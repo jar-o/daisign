@@ -5,7 +5,7 @@ const defaultpk = process.env.DAISIGN_PK || '0x348ce564d427a3311b6536bbcff9390d6
 
 const options = yargs
     .usage('Generate r, s, v values for dai.permit()')
-    .option('pk',  //TODO env probably
+    .option('pk',
      {  
          alias: 'private-key',
          describe: 'Private key',
