@@ -33,7 +33,7 @@ For example, to generate the values for a specific spender for a limited time, d
 ```
 export DAISIGN_PK='<YOUR PRIVATE KEY>'
 node src/cli.js \
-	--contract-address 0x6B175474E89094C44Da98b954EedeAC495271d0F \
+  --contract-address 0x6B175474E89094C44Da98b954EedeAC495271d0F \
   --spender-address 0xdd2d5d3f7f1b35b7a0601d6a00dbb7d44af58479 \
   --expiry 604414800
 
