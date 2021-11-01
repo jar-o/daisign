@@ -1,0 +1,23 @@
+{
+  "name": "daisign",
+  "version": "1.0.0",
+  "description": "Web3 based signing utility for dai.permit() - EIP-2612",
+  "main": "src/cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jar-o/daisign.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jar-o/daisign/issues"
+  },
+  "homepage": "https://github.com/jar-o/daisign#readme",
+  "dependencies": {
+    "ethers": "^5.5.1",
+    "yargs": "^17.2.1"
+  }
+}
