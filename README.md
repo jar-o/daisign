@@ -65,3 +65,4 @@ Now you should be good to go:
 node src/cli.js
 ```
 
+For more details see the [Maker docs](https://github.com/makerdao/developerguides/blob/master/dai/how-to-use-permit-function/how-to-use-permit-function.md).
